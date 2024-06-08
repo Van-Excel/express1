@@ -1,0 +1,14 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "learning how to use express to build web servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Van-Excel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
